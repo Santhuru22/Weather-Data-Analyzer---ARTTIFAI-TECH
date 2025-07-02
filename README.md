@@ -1,5 +1,5 @@
 # Weather-Data-Analyzer---ARTTIFAI-TECH
-Project Idea: Weather Data Analyzer
+Project Idea:
 📊 Weather Data Analyzer - Bangladesh Weather Data
 Developed for ARTTIFAI TECH Data Science Internship
 
